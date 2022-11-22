@@ -80,6 +80,7 @@ const Roadmap = () => {
                                         className="timelineLogo"
                                         src="https://d1fdloi71mui9q.cloudfront.net/duxEBTBjSaOmJxxkChb3_k6477NWXR4Qc2F8J"
                                         style={{
+                                             marginLeft:'12px',
                                             border: "1px solid #d1c8c8"
                                         }}
                                         />
@@ -126,6 +127,7 @@ const Roadmap = () => {
                                         className="timelineLogo"
                                         src="https://d1fdloi71mui9q.cloudfront.net/duxEBTBjSaOmJxxkChb3_k6477NWXR4Qc2F8J"
                                         style={{
+                                            marginLeft:'12px',
                                             border: "1px solid #d1c8c8"
                                         }}
                                         />
